@@ -1,0 +1,14 @@
+# DBD External ESP - Educational Research Tool
+# Python 3.11+ required (Windows 10/11 x64)
+
+pywin32>=306
+pymem>=1.13.0
+pyMeow>=1.5
+numpy>=1.26.0
+Pillow>=10.2.0
+keyboard>=0.13.5
+pygame>=2.5.2
+requests>=2.31.0
+pydantic>=2.6.0
+colorama>=0.4.6
+pytest>=8.0.0
