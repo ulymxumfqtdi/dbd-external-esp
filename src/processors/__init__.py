@@ -1,0 +1,1 @@
+"""Processors — turn raw snapshots into typed entities."""
