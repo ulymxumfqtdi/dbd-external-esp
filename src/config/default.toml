@@ -1,0 +1,21 @@
+[meta]
+version = "0.9.3"
+author = "dbd-esp-research"
+educational_only = true
+
+[core]
+tick_interval_ms = 16
+process_name = "DeadByDaylight-Win64-Shipping.exe"
+attach_timeout_ms = 5000
+
+[render]
+box_color = [0, 255, 120]
+text_color = [255, 255, 255]
+show_distance = true
+show_killer = true
+max_distance_m = 60.0
+
+[hotkeys]
+toggle_esp = "f1"
+toggle_killer = "f2"
+panic = "f12"
