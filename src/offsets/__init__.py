@@ -1,0 +1,1 @@
+"""Offset registry — placeholder offsets for research only."""
