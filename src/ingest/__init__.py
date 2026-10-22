@@ -1,0 +1,1 @@
+"""Ingest handlers — attach to the game and pull raw memory snapshots."""
